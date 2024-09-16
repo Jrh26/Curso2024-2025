@@ -1,0 +1,11 @@
+:ClassRoom03 contains :Sensor347;
+:ClassRoom03 contains :Table322;
+:Sensor347 hasMeasurement :Measurement8432;
+:Table322 hasOwner :ETSIInformáticos;
+:Measurement8432 hasTemperature "29"
+:Measurement8432 atTime "2022-09-12T12:01:12"
+:ETSIInformáticos hasName "ETSI Informácticos"
+
+
+
+
